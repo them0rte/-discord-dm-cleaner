@@ -1,4 +1,4 @@
-8Python tabanlı otomatik Discord DM (Direct Message) temizleme aracı.
+Python tabanlı otomatik Discord DM (Direct Message) temizleme aracı.
 # Discord DM Cleaner
 
 **Developed by M0RTE**
