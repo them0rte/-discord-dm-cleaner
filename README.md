@@ -1,4 +1,4 @@
-Python tabanlı otomatik Discord DM (Direct Message) temizleme aracı.
+8Python tabanlı otomatik Discord DM (Direct Message) temizleme aracı.
 # Discord DM Cleaner
 
 **Developed by M0RTE**
@@ -21,6 +21,10 @@ Discord DM Cleaner, kendi hesabınız üzerinden gönderdiğiniz doğrudan mesaj
 
 1. Depoyu bilgisayarınıza klonlayın veya indirin:
    ```bash
-   git clone [https://github.com/SENIN_KULLANICI_ADIN/discord-dm-cleaner.git](https://github.com/SENIN_KULLANICI_ADIN/discord-dm-cleaner.git)
+   git clone [https://github.com/them0rte/discord-dm-cleaner.git](https://github.com/them0rte/discord-dm-cleaner.git)
    cd discord-dm-cleaner
+   pip install requests
+   python morte_cleaner.py
+
+
 
